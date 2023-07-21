@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6f290f5.css",
-    "main.js": "/static/js/main.ac51f6d5.js",
-    "static/js/787.00f39817.chunk.js": "/static/js/787.00f39817.chunk.js",
-    "index.html": "/index.html",
-    "main.b6f290f5.css.map": "/static/css/main.b6f290f5.css.map",
-    "main.ac51f6d5.js.map": "/static/js/main.ac51f6d5.js.map",
-    "787.00f39817.chunk.js.map": "/static/js/787.00f39817.chunk.js.map"
+    "main.css": "/hdplayer-loop-maker/static/css/main.b6f290f5.css",
+    "main.js": "/hdplayer-loop-maker/static/js/main.c1a3a066.js",
+    "static/js/787.00f39817.chunk.js": "/hdplayer-loop-maker/static/js/787.00f39817.chunk.js",
+    "index.html": "/hdplayer-loop-maker/index.html",
+    "main.b6f290f5.css.map": "/hdplayer-loop-maker/static/css/main.b6f290f5.css.map",
+    "main.c1a3a066.js.map": "/hdplayer-loop-maker/static/js/main.c1a3a066.js.map",
+    "787.00f39817.chunk.js.map": "/hdplayer-loop-maker/static/js/787.00f39817.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6f290f5.css",
-    "static/js/main.ac51f6d5.js"
+    "static/js/main.c1a3a066.js"
   ]
 }
